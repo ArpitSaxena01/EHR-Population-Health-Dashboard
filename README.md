@@ -13,6 +13,6 @@ Tools & Technologies Used:
 Key Insights:
 
 * Older age groups showed a higher prevalence of chronic conditions.
-* Prediabetes and hypertension were among the most common conditions observed.
+* Hypertension were among the most common conditions observed.
 * BMI and glucose trends showed noticeable variation over time across patient groups.
 * Interactive analysis helped identify patterns across demographics and clinical observations.
